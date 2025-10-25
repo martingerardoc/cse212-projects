@@ -9,5 +9,7 @@ public class Program
         // one of your projects.
 
         Console.WriteLine("Hello Sandbox World!");
+        Console.WriteLine("We need to work every week");
+        Console.WriteLine("Thanks for your help");
     }
 }
